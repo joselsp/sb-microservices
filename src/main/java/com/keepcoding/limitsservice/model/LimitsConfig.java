@@ -1,4 +1,4 @@
-package com.keepcoding.limitsservice.controller;
+package com.keepcoding.limitsservice.model;
 
 public class LimitsConfig {
 	
